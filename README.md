@@ -38,9 +38,9 @@ El motor de la simulación se basa en dos flujos acoplados:
 ### Ejecución
 Clona el repositorio y ejecuta el script principal:
 ```bash
-git clone https://github.com/tu-usuario/axiomatic-persistence.git
-cd axiomatic-persistence
-python main_gui.py
+git clone https://github.com/JPQ-exp/PDS-Simulacion-Ecosistema.git
+cd PDS-Simulacion-Ecosistema
+python ecosystem dynamics tkinter.py
 ```
 
 ## 🎮 Interfaz de Usuario
