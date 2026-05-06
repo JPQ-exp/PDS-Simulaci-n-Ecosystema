@@ -1,7 +1,7 @@
 <img width="840" height="650" alt="Simulación de ecosistema" src="https://github.com/user-attachments/assets/912ffe17-4c5c-468d-8299-b7b325beec4d" />
 
 
-# PDS-Simulaci-n-Ecosystema
+# PDS-Simulacion-Ecosistema
 Es una simulación de ecosistema viable, con modificacion de parametros en python visualizado en tkinter.
 # Axiomatic Persistence: An Emergent Ecosystem Simulation
 
